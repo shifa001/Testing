@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Accessories">Accessoires</string>
+    <string name="PRODUCTS">des produits</string>
+    <string name="service">un service</string>
+    <string name="Register">S inscrire</string>
+    <string name="donate">faire un don</string>
+
+
+</resources>
